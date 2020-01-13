@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1aba65d-6d1e-4fa5-98e7-18d99a523697" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/graphql-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/resolvers/__test__/post.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/resolvers/__test__/user.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/resolvers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/resolvers/post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/resolvers/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/types/Post.graphql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/types/Scalar.graphql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/types/Tag.graphql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/types/User.graphql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/types/__test__/__snapshots__/index.test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/types/__test__/index.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/types/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Tag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/__test__/Post.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/__test__/Tag.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/__test__/User.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/__test__/auth.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/auth.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WGZvJLJBgCSkYDuEQb3cPmfvBO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1aba65d-6d1e-4fa5-98e7-18d99a523697" name="Default Changelist" comment="" />
+      <created>1578778474050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578778474050</updated>
+      <workItem from="1578778475421" duration="2388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578778711962">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1578778711962" />
+    <state width="1579" height="202" key="GridCell.Tab.0.bottom" timestamp="1578778618125">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="202" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1578778618125" />
+    <state width="1579" height="202" key="GridCell.Tab.0.center" timestamp="1578778618125">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="202" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1578778618125" />
+    <state width="1579" height="202" key="GridCell.Tab.0.left" timestamp="1578778618125">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="202" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1578778618125" />
+    <state width="1579" height="202" key="GridCell.Tab.0.right" timestamp="1578778618125">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="202" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1578778618125" />
+  </component>
+</project>
