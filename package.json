@@ -8,11 +8,7 @@
     "test": "jest src",
     "lint": "eslint src"
   },
-  "husky": {
-    "hooks": {
-      "pre-push": "npm run  && npm test"
-    }
-  },
+ 
   "author": "Ricardo",
   "license": "ISC",
   "devDependencies": {
